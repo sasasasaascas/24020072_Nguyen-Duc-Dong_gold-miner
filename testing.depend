@@ -72,3 +72,49 @@
 	<iostream>
 	<cmath>
 
+1743706360 source:d:\realgame\game.cpp
+	"game.h"
+	"globals.h"
+	"utils.h"
+	"constants.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1743706359 d:\realgame\game.h
+	"object.h"
+
+1743706454 d:\realgame\object.h
+
+1743706359 d:\realgame\globals.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector>
+	"object.h"
+
+1743706360 d:\realgame\utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"object.h"
+
+1743706613 d:\realgame\constants.h
+	<cmath>
+
+1743770608 source:d:\realgame\main.cpp
+	"constants.h"
+	"globals.h"
+	"game.h"
+	"utils.h"
+	<iostream>
+
+1743706720 source:d:\realgame\utils.cpp
+	"constants.h"
+	"utils.h"
+	"globals.h"
+	<iostream>
+	<cmath>
+
