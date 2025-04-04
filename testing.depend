@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1743706360 source:d:\testing\main.cpp
+	"constants.h"
+	"globals.h"
+	"game.h"
+	"utils.h"
+	<iostream>
+
+1743704059 source:d:\testing\object.cpp
+	"object.h"
+	"def.h"
+
+1743706454 d:\testing\object.h
+
+1743704059 source:d:\testing\hook.cpp
+	"hook.h"
+	"def.h"
+	<cmath>
+
+1743704059 d:\testing\hook.h
+	"object.h"
+
+1743704375 d:\testing\def.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"object.h"
+
+1743704274 source:d:\testing\def.cpp
+	"def.h"
+	"hook.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1743706360 source:d:\testing\game.cpp
+	"game.h"
+	"globals.h"
+	"utils.h"
+	"constants.h"
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1743706359 d:\testing\game.h
+	"object.h"
+
+1743706359 d:\testing\globals.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector>
+	"object.h"
+
+1743706360 d:\testing\utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"object.h"
+
+1743706613 d:\testing\constants.h
+	<cmath>
+
+1743706720 source:d:\testing\utils.cpp
+	"constants.h"
+	"utils.h"
+	"globals.h"
+	<iostream>
+	<cmath>
+
