@@ -241,6 +241,7 @@ void runGame() {
                     hookDirectionY = sin(angle);
                 }
                 if (gameEnded && e.key.keysym.sym == SDLK_r) {
+                    score = 0;
                     setupObjects();
                     isShooting = false;
                     isRetracting = false;
